@@ -1,6 +1,6 @@
 
 <!--
-**Anu9808/Anu9808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anuragsharma051/anuragsharma051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![## Hi there, I'm Anurag Sharma 👋](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
-![Profile views](https://komarev.com/ghpvc/?username=Anu9808&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=anuragsharma051&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 🌟 About Me
 
@@ -81,13 +81,13 @@ Here are some of the projects I’ve worked on:
 - **[Project Name](link)**: A brief description of what this project does and what technologies were used.
 - **[Project Name](link)**: A brief description of what this project does and what technologies were used.
 -->
-Feel free to explore more of my projects on my [GitHub Repositories](https://github.com/Anu9808).
+Feel free to explore more of my projects on my [GitHub Repositories](https://github.com/anuragsharma051).
 
 ### 📊 My Stats
 <!--
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anu9808&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Anu9808&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anuragsharma051&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=anuragsharma051&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
 <p align="left">
@@ -95,11 +95,11 @@ Feel free to explore more of my projects on my [GitHub Repositories](https://git
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sushilmagare10&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
 </p>
 -->
-![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com/?user=Anu9808&theme=dark&background=000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anu9808&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com/?user=Anu980&theme=dark&background=000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsharma051&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anu9808&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragsharma051&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 -->
 
 ### 📫 Connect with Me
